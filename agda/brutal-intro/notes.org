@@ -1,0 +1,10 @@
+#+TITLE:       notes
+#+DATE:        Wednesday, 14 May 2014
+#+EMAIL:       serg.foo@gmail.com
+#+DESCRIPTION:
+#+KEYWORDS:
+#+STARTUP:     content
+#+STARTUP:     inlineimages
+
+* Address http://oxij.org/note/BrutalDepTypes/
+
